@@ -1,0 +1,18 @@
+.list-component{
+  color: black;
+}
+.menu{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+li a{
+  color: green;
+}
+#customers-anchor{
+  margin: 10px !important;
+
+}
+#about-anchor{
+  margin: 10px !important;
+}
